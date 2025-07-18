@@ -56,8 +56,8 @@ export default function Loginform(){
     
     return(
         <> 
-        <div class="flex items-center justify-center min-h-screen bg-gray-100 px-4">
-      <form class="bg-white p-8 rounded-xl shadow-md w-full max-w-sm"
+        <div class="flex items-center justify-center min-h-screen bg-amber-950 px-4">
+      <form class="bg-amber-800 p-8 rounded-xl shadow-md w-full max-w-sm"
        onSubmit={handleSubmit}
        >
         <div class="flex justify-center mb-4 text-black-600 text-4xl">
